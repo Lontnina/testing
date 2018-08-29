@@ -1,0 +1,35 @@
+body {
+    
+    background-image: url(https://yt3.ggpht.com/a-/ACSszfGDUU20p4uPuSNrhemcxrNh4oOenujxfJm0=s900-mo-c-c0xffffffff-rj-k-no);
+    
+    font-family: cursive;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    text-decoration: inherit;
+        
+}
+h2 {
+    text-align: center;
+        text-decoration: underline;
+    
+}
+
+
+a{
+    text-decoration-color: crimson;
+    
+    
+}
+h3 a{
+    
+}
+img{
+    margin-right: 10px;
+}
+#1 {
+    margin-left: 100px;
+}
